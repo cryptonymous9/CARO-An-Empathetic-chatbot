@@ -14,4 +14,4 @@ CARO is an empathetic Health conversatinoal chatbot focussed on peple with major
 
 <img src="screen.PNG"
      alt="Markdown Monster icon"
-     style="float: left; width: 80%;margin-right: 10px;" />
+     style="float: left; width: 60%;margin-right: 10px;" />
