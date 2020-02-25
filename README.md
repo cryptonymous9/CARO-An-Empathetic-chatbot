@@ -10,8 +10,11 @@ CARO is an empathetic Health conversatinoal chatbot focussed on peple with major
 
 > Note: We have not released the weights of individual models yet. 
 
+## Approach
+
+<!-- ![](pipeline.PNG) -->
+<img src="pipeline.PNG" style="width: 50%;margin-right: 10px;" />
+
 ## CARO chatbot UI
 
-<img src="screen.PNG"
-     alt="Markdown Monster icon"
-     style="float: left; width: 60%;margin-right: 10px;" />
+<img src="screen.PNG" style="width: 50%;margin-right: 10px;" />
